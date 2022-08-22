@@ -5,12 +5,13 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
 <p align='center'>
   <a href='https://stackoverflow.com/users/7440652/pranav'>
     <img height='30px' src='https://user-images.githubusercontent.com/24698343/185930502-228c2c9b-436c-41d6-b115-715678cb5587.png' />
-  </a>
+  </a>&nbsp;&nbsp;
    <a href='https://www.linkedin.com/in/pranav-chandra-441294135'>
     <img height='30px' src='https://user-images.githubusercontent.com/24698343/185930217-cfc9d341-5d0b-4275-a52a-7ff0f98a7e75.png' />
-  </a>
+    
+  </a>&nbsp;&nbsp;
    <a href='https://pranavchandra.vercel.app'>
-   [Portfolio](https://media-exp1.licdn.com/dms/image/C5603AQGBS5dMhEUSmA/profile-displayphoto-shrink_400_400/0/1648559686116?e=1666828800&v=beta&t=DOK1Cf2Osn5aNWW0Z_pAySDfC9W_aTtdGJ8j57CQIRs)
+      <img height='30px' src='https://media-exp1.licdn.com/dms/image/C5603AQGBS5dMhEUSmA/profile-displayphoto-shrink_400_400/0/1648559686116?e=1666828800&v=beta&t=DOK1Cf2Osn5aNWW0Z_pAySDfC9W_aTtdGJ8j57CQIRs' />
   </a>
   
 </p>
