@@ -1,4 +1,4 @@
-##👋 Hi there, I’m Pranav Chandra, and I love ❤️ to code ##
+-👋 Hi there, I’m Pranav Chandra, and I love ❤️ to code #
 
 # Summary #
 - I have over 3 and half years of experience in software developement industry building performant and fast
