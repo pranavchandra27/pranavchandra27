@@ -14,8 +14,10 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
 ![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=#F7DF1E&color=2bbc8a)
 ![](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=TypeScript&logoColor=#3178C6&color=2bbc8a)
 ![](https://img.shields.io/badge/-React-informational?style=flat&logo=React&logoColor=#61DAFB&color=2bbc8a)
+![](https://img.shields.io/badge/-Redux-informational?style=flat&logo=React&logoColor=#764ABC&color=2bbc8a)
 ![](https://img.shields.io/badge/-React-Native-informational?style=flat&logo=React&logoColor=#61DAFB&color=2bbc8a)
-![](https://img.shields.io/badge/-MUI-informational?style=flat&logo=MUI&logoColor=#007FFF&color=2bbc8a)
+![](https://img.shields.io/badge/-Material-UI-informational?style=flat&logo=MUI&logoColor=#007FFF&color=2bbc8a)
+![](https://img.shields.io/badge/-TailwindCSS-informational?style=flat&logo=TailwindCSS&logoColor=#007FFF&color=2bbc8a)
 ![](https://img.shields.io/badge/-Vue-informational?style=flat&logo=Vue.js&logoColor=#4FC08D&color=2bbc8a)
 ![](https://img.shields.io/badge/-Python-informational?style=flat&logo=Python&logoColor=#3776AB&color=2bbc8a)
 ![](https://img.shields.io/badge/-Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=#0052CC&color=2bbc8a)
@@ -29,9 +31,7 @@ I am very passionate about learning and exploring new things, I like challenges 
 possibilities to grow myself,
 - Multi-tasking ability with the experience of handling multiple projects at a time.
 - Ability to leverage full-stack knowledge and experience to build interactive and user-centered web apps to scale.
-- Proven track record of improving efficiency and profitability.
-
-# Skills 
+- Proven track record of improving efficiency and profitability. 
 
 
 
