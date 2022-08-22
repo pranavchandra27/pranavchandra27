@@ -31,8 +31,8 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
 
 
 
-# Summary #
-- I have over 3 and half years of experience in software developement industry building performant and fast
+## Professional Experience
+- I'm a proven team player, with over 3 and half years of experience in software developement industry building performant and fast
 applications and my primary skills are React and JavaScript.
 I am very passionate about learning and exploring new things, I like challenges and I am always open for new
 possibilities to grow myself,
