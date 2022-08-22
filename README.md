@@ -11,9 +11,10 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
 ## Technologies & Tools
 
 ![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=#F7DF1E&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=#F7DF1E&color=2bbc8a)
+![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=#F7DF1E&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=#3178C6&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-React-informational?style=flat&logo=React&logoColor=#61DAFB&color=2bbc8a)
+![](https://img.shields.io/badge/Tool-React-Native-informational?style=flat&logo=React&logoColor=#61DAFB&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-MUI-informational?style=flat&logo=MUI&logoColor=#007FFF&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Vue-informational?style=flat&logo=Vue.js&logoColor=#4FC08D&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=#3776AB&color=2bbc8a)
