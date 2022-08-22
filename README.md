@@ -7,7 +7,7 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
     Stack Overflow
   </a>
    <a href='https://www.linkedin.com/in/pranav-chandra-441294135'>
-    <img src='https://user-images.githubusercontent.com/24698343/185930217-cfc9d341-5d0b-4275-a52a-7ff0f98a7e75.png' />
+    <img height='30px' src='https://user-images.githubusercontent.com/24698343/185930217-cfc9d341-5d0b-4275-a52a-7ff0f98a7e75.png' />
   </a>
    <a href='https://pranavchandra.vercel.app'>
    Portfolio
