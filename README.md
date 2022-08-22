@@ -1,6 +1,6 @@
 ## 👋 Hi there, I ❤️ coding
 
-I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open source contributor, I like building fast web applications with React.Js and TypeScript, also sometimes I help people in stackoverflow.
+<p>I’m <a href="https://pranavchandra.vercel.app">Pranav Chandra</a>, I am a Frontend Developer and also sometimes an open source contributor, I like building fast web applications with React.Js and TypeScript, also sometimes I help people in stackoverflow.</p>
 
 <p align='center'>
   <a href='https://stackoverflow.com/users/7440652/pranav'>
@@ -10,10 +10,6 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
     <img height='30px' src='https://user-images.githubusercontent.com/24698343/185930217-cfc9d341-5d0b-4275-a52a-7ff0f98a7e75.png' />
     
   </a>&nbsp;&nbsp;
-   <a href='https://pranavchandra.vercel.app'>
-      <img height='30px' src='https://media-exp1.licdn.com/dms/image/C5603AQGBS5dMhEUSmA/profile-displayphoto-shrink_400_400/0/1648559686116?e=1666828800&v=beta&t=DOK1Cf2Osn5aNWW0Z_pAySDfC9W_aTtdGJ8j57CQIRs' />
-  </a>
-  
 </p>
 
 ## What I'm doing 
