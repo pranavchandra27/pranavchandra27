@@ -10,7 +10,7 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
 
 ## Technologies & Tools
 
-![](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=JavaScript&logoColor=#F7DF1E&color=2bbc8a)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=#F7DF1E&color=2bbc8a)
 
 # Summary #
 - I have over 3 and half years of experience in software developement industry building performant and fast
