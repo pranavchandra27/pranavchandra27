@@ -11,7 +11,7 @@ I’m Pranav Chandra, I am a Frontend Developer and also sometimes an open sourc
 ## Technologies & Tools
 
 <p align='center'>
- <p>https://img.shields.io/badge/<>-<JavaScript>-<yellow></p>
+ ![](https://img.shields.io/badge/<JS>-<JavaScript>-informational?style=flat&logo=<JS>&logoColor=yellow&color=2bbc8a)
 </p>
 
 # Summary #
