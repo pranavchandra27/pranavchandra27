@@ -51,7 +51,7 @@ possibilities to grow myself,
 - Proven track record of improving efficiency and profitability. 
 
 
-### Thank you for coming to my profile,
+### Thank you for coming to my profile 😊🙌,
 
 <!---
 pranavchandra27/pranavchandra27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
