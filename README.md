@@ -1,6 +1,6 @@
 ## 👋 Hi there, I ❤️ coding
 
-<p>I’m <a href="https://pranavchandra.vercel.app">Pranav Chandra</a>, I am a Frontend Developer and also sometimes an open source contributor, I like building fast web applications with React.Js and TypeScript, also sometimes I help people in stackoverflow.</p>
+<p>I’m <a href="https://pranavchandra.vercel.app">Pranav Chandra</a>, I am a Software Developer and also sometimes an open source contributor, I like building applications with React.Js and TypeScript, not just React but React Native and Ionic for mobile app developement</p>
 
 <p align='center'>
   <a href='https://stackoverflow.com/users/7440652/pranav'>
@@ -14,9 +14,9 @@
 
 ## What I'm doing 
 
-👨‍💻 I’m currently working as a full-time Web Developer.
+👨‍💻 I can develop mobile apps and web apps.
 
-🚧 I'm learning focused productivity, knowledge management and more skills everyday.
+🚧 I'm very good at building apps using React.
 
 ## Technologies & Tools
 
@@ -42,9 +42,9 @@
 
 
 ## Professional Experience
-- I'm a proven team player, with over 3 and half years of experience in software developement industry building performant and fast
-applications and my primary skills are React and JavaScript.
-I am very passionate about learning and exploring new things, I like challenges and I am always open for new
+- I'm a proven team player, with 5 years experience in software developement industry building performant and fast
+applications and my primary skills are React, Typescript and JavaScript.
+- I am very passionate about learning and exploring new things, I like challenges and I am always open for new
 possibilities to grow myself,
 - Multi-tasking ability with the experience of handling multiple projects at a time.
 - Ability to leverage full-stack knowledge and experience to build interactive and user-centered web apps to scale.
