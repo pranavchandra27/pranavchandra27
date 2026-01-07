@@ -42,7 +42,7 @@
 
 
 ## Professional Experience
-- I'm a proven team player, with 5 years experience in software developement industry building performant and fast
+- I'm a proven team player, with 6 years experience in software developement industry building performant and fast
 applications and my primary skills are React, Typescript and JavaScript.
 - I am very passionate about learning and exploring new things, I like challenges and I am always open for new
 possibilities to grow myself,
